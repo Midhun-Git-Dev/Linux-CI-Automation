@@ -68,7 +68,7 @@ This project can be used to:
 
 ---
 
-## 👤 Author
-**Midhun**  
-DevOps Enthusiast | Linux | Jenkins | CI/CD
-
+## ▶️ How to Run the Project
+```bash
+cd scripts
+./system_report.sh
